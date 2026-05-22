@@ -22,7 +22,6 @@
 - [Design Decisions](#design-decisions)
 - [Reproducing Results](#reproducing-results)
 - [Known Limitations](#known-limitations)
-- [Mentors](#mentors)
 
 ---
 
