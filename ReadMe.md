@@ -365,4 +365,4 @@ STEP_DAYS = 21      # more responsive, more compute
 ## Author
 
 **Prateek Dixit**
-BS-MS Economics · IIT Roorkee
+· BS-MS Economics · IIT Roorkee
