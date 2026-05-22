@@ -1,0 +1,4 @@
+Strategy,Total ret,Ann. ret,Ann. vol,Sharpe,Sortino,Max DD,N days
+Regime-Shift (OOS),272.2%,8.2%,9.6%,0.87,1.19,-24.3%,4221
+60/40 benchmark,205.8%,6.9%,11.6%,0.64,0.75,-32.9%,4221
+Equal weight,174.2%,6.2%,9.8%,0.66,0.86,-24.0%,4221

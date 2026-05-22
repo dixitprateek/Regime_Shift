@@ -1,0 +1,14 @@
+,Regime-Shift (OOS),60/40 benchmark,Equal weight,SPY only
+Ann. Return,8.16%,6.90%,6.21%,8.66%
+Ann. Volatility,9.55%,11.55%,9.81%,20.08%
+Sharpe Ratio,0.608,0.419,0.408,0.390
+Sortino Ratio,0.826,0.481,0.511,0.365
+Calmar Ratio,0.335,0.210,0.259,0.156
+Max Drawdown,-24.34%,-32.89%,-23.99%,-55.66%
+Days in Drawdown,3812,3748,3913,3797
+Win Rate,54.8%,55.3%,54.3%,55.0%
+VaR 95%,-0.96%,-1.10%,-0.98%,-1.89%
+CVaR 95%,-1.38%,-1.75%,-1.43%,-3.15%
+Best Month,9.49%,9.35%,7.12%,11.95%
+Worst Month,-8.33%,-11.94%,-12.16%,-19.31%
+Total Return,272.2%,205.8%,174.2%,302.0%
