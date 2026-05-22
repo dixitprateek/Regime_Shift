@@ -39,6 +39,17 @@ Standard quantitative strategies (like the classic 60/40 portfolio) rely on stat
 
 ---
 
+## Visualisations
+
+### Detected Market Regimes (2005–2024)
+![Regimes](plots/regimes.png)
+
+### Performance Tear Sheet (OOS Walk-Forward)
+![Tear Sheet](plots/tearsheet.png)
+
+### Transaction Friction Analysis
+![Friction](plots/friction_analysis.png)
+
 ## Results
 
 All numbers are **out-of-sample** from a walk-forward validation spanning 4,221 trading days (~17 years, 2008–2024). The HMM was never exposed to test data during training.
@@ -57,16 +68,6 @@ All numbers are **out-of-sample** from a walk-forward validation spanning 4,221 
 | **Total Return** | **272.2%** | 205.8% | 174.2% | 302.0% |
 
 
-## Visualisations
-
-### Detected Market Regimes (2005–2024)
-![Regimes](plots/regimes.png)
-
-### Performance Tear Sheet (OOS Walk-Forward)
-![Tear Sheet](plots/tearsheet.png)
-
-### Transaction Friction Analysis
-![Friction](plots/friction_analysis.png)
 
 **Key takeaway:** SPY delivered higher raw returns (302% vs 272%) but at 2× the volatility and a -55.7% max drawdown. Regime-Shift generated **2.1× better Calmar ratio** than SPY — more return per unit of drawdown risk — which is the goal of a risk-aware allocation engine.
 
