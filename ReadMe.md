@@ -350,13 +350,7 @@ STEP_DAYS = 21      # more responsive, more compute
 
 ---
 
-## Mentors
+## Author
 
-- **Shubham Rane** — 98205 59692
-- **Tanishq Kothari** — 98318 23372
-
-**FEC · IIT Guwahati**
-
----
-
-*Built as part of the FEC IIT Guwahati Quant Finance project series.*
+**Prateek Dixit**
+BS-MS Economics · IIT Roorkee
